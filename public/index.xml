@@ -2,17 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My New Hugo Site</title>
-    <link>http://localhost:1313/</link>
+    <link>https://example.org/</link>
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 25 Jun 2025 23:31:22 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 26 Jun 2025 12:06:42 +0800</lastBuildDate>
+    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Post</title>
+      <link>https://example.org/posts/first-post/</link>
+      <pubDate>Thu, 26 Jun 2025 12:06:42 +0800</pubDate>
+      <guid>https://example.org/posts/first-post/</guid>
+      <description>&lt;h2 id=&#34;将-hugo-作为-github-pages-项目或个人组织站点部署并使用-github-actions-自动化整个过程&#34;&gt;将 Hugo 作为 GitHub Pages 项目或个人/组织站点部署，并使用 GitHub Actions 自动化整个过程&lt;/h2&gt;&#xA;&lt;p&gt;不要使用https://hugo.opendocs.io/hosting-and-deployment/hosting-on-github/&#xA;的配置文件。&lt;/p&gt;&#xA;&lt;p&gt;在Settings&amp;gt;Pages中，&lt;code&gt;use a suggested workflow, browse all workflows, or create your own.&lt;/code&gt;中，选择&lt;code&gt;browse all workflows&lt;/code&gt;，然后搜索hugo，configure，就成功了。&lt;/p&gt;</description>
+    </item>
     <item>
       <title>My First Post</title>
-      <link>http://localhost:1313/posts/my-first-post/</link>
+      <link>https://example.org/posts/my-first-post/</link>
       <pubDate>Wed, 25 Jun 2025 23:31:22 +0800</pubDate>
-      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <guid>https://example.org/posts/my-first-post/</guid>
       <description></description>
     </item>
   </channel>
