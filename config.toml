@@ -1,16 +1,24 @@
 baseURL = "https://lignedefuite.github.io/blog/"
 languageCode = "zh-cn"
 title = "拍動"
+paginate: 10
 theme = "PaperMod"
+
 defaultContentLanguage = "zh-cn"
 enableRobotsTXT = true
-paginate = 10
 buildDrafts = false
 buildFuture = false
 buildExpired = false
 
+googleAnalytics = UA-123-45
+
+[minify]
+  disableXML = true
+  minifyOutput = true
+
 [params]
   env = "production"
+  title = "拍動"
   author = "Utena"
   ShowReadingTime = true
   ShowShareButtons = true
@@ -23,7 +31,7 @@ buildExpired = false
   comments = false
   defaultTheme = "auto" # 可设为 light, dark, auto
   DateFormat = "2006-01-02"
-  showNavbae = true
+  showNavbar = true
 
 # 首页描述
   homeInfoParams = { Title = "Welcome to Hakudo", Content = "ACGN, Cyber Security, Life."}
