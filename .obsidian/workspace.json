@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/journal-0423.md",
+                "file": "content/posts/test.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "journal-0423"
+              "title": "test"
             }
           }
         ]
@@ -167,12 +167,13 @@
   },
   "active": "2df0e0f315e627c6",
   "lastOpenFiles": [
+    "content/posts/my-first-post.md",
+    "content/posts/test.md",
+    "content/posts/journal-0423.md",
+    "content/posts/first-post.md",
     "content/posts/hugo-blog-articles/journal-0423.md",
     "content/posts/hugo-blog-articles/Untitled.md",
     "content/posts/hugo-blog-articles/Notes on some C++ knowledge points.md",
-    "content/posts/hugo-blog-articles",
-    "content/posts/my-first-post.md",
-    "content/posts/journal-0423.md",
-    "content/posts/first-post.md"
+    "content/posts/hugo-blog-articles"
   ]
 }
