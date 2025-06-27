@@ -1,7 +1,6 @@
 baseURL = "https://lignedefuite.github.io/blog/"
 languageCode = "zh-cn"
 title = "拍動"
-paginate = 10
 theme = "archie"
 
 defaultContentLanguage = "zh-cn"
@@ -10,7 +9,10 @@ buildDrafts = false
 buildFuture = false
 buildExpired = false
 
-googleAnalytics = "UA-123-45"
+# googleAnalytics = "UA-123-45"
+
+[pagination]
+pagerSize = 10;
 
 [minify]
   disableXML = true
@@ -116,16 +118,6 @@ SiteVerificationTag = "XYZabc"
   limit = 10
   keys = [ "title", "permalink", "summary", "content" ]
 
-
-# 首页描述
-homeInfoParams = { Title = "Welcome to Hakudo", Content = "ACGN, Cyber Security, Life."}
-
-# 社交链接
-socialIcons = [
-  { name = "github", url = "https://github.com/lignedefuite" },
-  { name = "rss", url = "/index.xml" }
-]
-
 [menu]
 
   [[menu.main]]
@@ -164,8 +156,8 @@ socialIcons = [
     url = "/search/"
     weight = 60
 
-[outputs]
-  home = ["HTML", "RSS", "JSON"]
+#[outputs]
+#home = ["HTML", "RSS", "JSON"]
 
 [markup]
   [markup.highlight]
