@@ -2,13 +2,39 @@ baseURL = "https://lignedefuite.github.io/blog/"
 languageCode = "zh-cn"
 title = "拍動"
 theme = "PaperMod"
+defaultContentLanguage = "zh-cn"
+enableRobotsTXT = true
+paginate = 10
+buildDrafts = false
+buildFuture = false
+buildExpired = false
 
 [params]
+  env = "production"
+  author = "Utena"
   ShowReadingTime = true
+  ShowShareButtons = true
   ShowCodeCopyButtons = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
   ShowToc = true
+  TocOpen = true
+  ShowWordCount = true
+  comments = false
+  defaultTheme = "auto" # 可设为 light, dark, auto
+  DateFormat = "2006-01-02"
+
+# 首页描述
+  homeInfoParams = { Title = "Welcome to Hakudo", Content = "ACGN, Cyber Security, Life."}
+
+  # 社交链接（可选）
+  socialIcons = [
+    { name = "github", url = "https://github.com/lignedefuite" },
+    { name = "rss", url = "/index.xml" }
+  ]
 
 [menu]
+
   [[menu.main]]
     identifier = "home"
     name = "Home"
@@ -33,3 +59,26 @@ theme = "PaperMod"
     url = "/about/"
     weight = 4
 
+  [[menu.main]]
+    identifier = "links"
+    name = "Links"
+    url = "/links/"
+    weight = 5
+
+  [[menu.main]]
+    identifier = "search"
+    name = "Search"
+    url = "/search/"
+    weight = 6
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[markup]
+  [markup.highlight]
+    noClasses = false
+    style = "monokai"
+
+[languages.zh-cn]
+  languageName = "简体中文"
+  weight = 1
