@@ -1,23 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on 拍動</title>
-    <link>http://localhost:1313/blog/posts/</link>
-    <description>Recent content in Posts on 拍動</description>
+    <title>Reflection on 拍動</title>
+    <link>http://localhost:1313/blog/tags/reflection/</link>
+    <description>Recent content in Reflection on 拍動</description>
     <generator>Hugo -- 0.147.4</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 26 Jun 2025 12:06:42 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/blog/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>First Post</title>
-      <link>http://localhost:1313/blog/posts/first-post/</link>
-      <pubDate>Thu, 26 Jun 2025 12:06:42 +0800</pubDate>
-      <guid>http://localhost:1313/blog/posts/first-post/</guid>
-      <description>&lt;h2 id=&#34;将-hugo-作为-github-pages-项目或个人组织站点部署并使用-github-actions-自动化整个过程&#34;&gt;将 Hugo 作为 GitHub Pages 项目或个人/组织站点部署，并使用 GitHub Actions 自动化整个过程&lt;/h2&gt;
-&lt;p&gt;不要使用https://hugo.opendocs.io/hosting-and-deployment/hosting-on-github/
-的配置文件。&lt;/p&gt;
-&lt;p&gt;在Settings&amp;gt;Pages中，&lt;code&gt;use a suggested workflow, browse all workflows, or create your own.&lt;/code&gt;中，选择&lt;code&gt;browse all workflows&lt;/code&gt;，然后搜索hugo，configure，就成功了。&lt;/p&gt;</description>
-    </item>
+    <lastBuildDate>Thu, 24 Apr 2025 23:30:00 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/blog/tags/reflection/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>0423-精神行将就木 身体囤积脂肪</title>
       <link>http://localhost:1313/blog/posts/journal-0423/</link>

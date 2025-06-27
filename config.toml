@@ -1,7 +1,7 @@
 baseURL = "https://lignedefuite.github.io/blog/"
 languageCode = "zh-cn"
 title = "拍動"
-paginate: 10
+paginate = 10
 theme = "archie"
 
 defaultContentLanguage = "zh-cn"
@@ -19,7 +19,7 @@ googleAnalytics = UA-123-45
 [params]
 env = "production"
 title = "拍動"
-keywords = [ "Blog", "Portfolio", "PaperMod" ]
+keywords = [ "Blog", "Portfolio", "archie" ]
 author = "Me"
 images = [ "<link or path of image for opengraph, twitter-cards>" ]
 DateFormat = "January 2, 2006"
