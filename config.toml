@@ -2,7 +2,7 @@ baseURL = "https://lignedefuite.github.io/blog/"
 languageCode = "zh-cn"
 title = "拍動"
 paginate: 10
-theme = "PaperMod"
+theme = "archie"
 
 defaultContentLanguage = "zh-cn"
 enableRobotsTXT = true
