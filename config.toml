@@ -23,6 +23,7 @@ buildExpired = false
   comments = false
   defaultTheme = "auto" # 可设为 light, dark, auto
   DateFormat = "2006-01-02"
+  showNavbae = true
 
 # 首页描述
   homeInfoParams = { Title = "Welcome to Hakudo", Content = "ACGN, Cyber Security, Life."}
