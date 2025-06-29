@@ -3,6 +3,8 @@ languageCode = "zh-cn"
 title = "拍動"
 theme = "archie"
 
+
+summaryLength = 60
 defaultContentLanguage = "zh-cn"
 enableRobotsTXT = true
 buildDrafts = false

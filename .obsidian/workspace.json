@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/clean-room.md",
+                "file": "content/posts/journal-0423.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "clean-room"
+              "title": "journal-0423"
             }
           }
         ]
@@ -167,10 +167,10 @@
   },
   "active": "336bafe4fa066d81",
   "lastOpenFiles": [
+    "content/posts/my-first-post.md",
     "content/posts/journal-0423.md",
     "content/posts/first-post.md",
     "content/posts/clean-room.md",
-    "content/posts/my-first-post.md",
     "content/posts/hugo-blog-articles/journal-0423.md",
     "content/posts/hugo-blog-articles/Untitled.md",
     "content/posts/hugo-blog-articles/Notes on some C++ knowledge points.md",
