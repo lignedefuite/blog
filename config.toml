@@ -1,7 +1,7 @@
 baseURL = "https://lignedefuite.github.io/blog/"
 languageCode = "zh-cn"
 title = "拍動"
-theme = "archie"
+theme = "PaperMod"
 
 
 summaryLength = 60
