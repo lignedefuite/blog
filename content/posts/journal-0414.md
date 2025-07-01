@@ -1,6 +1,6 @@
 ---
 title: 0414-Reflection
-date: 2025-04-24T23:30:00+08:00
+date: 2025-04-14
 draft: false
 tags:
   - journal

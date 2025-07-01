@@ -11,10 +11,14 @@
             "id": "7414ca5377190445",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "content/posts/sm4_e2ee_architecture.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "sm4_e2ee_architecture"
             }
           }
         ]
@@ -163,9 +167,11 @@
   },
   "active": "7414ca5377190445",
   "lastOpenFiles": [
-    "content/posts/first-post.md",
     "content/posts/journal-0423.md",
+    "content/posts/sm4_e2ee_architecture.md",
     "content/posts/my-first-post.md",
+    "content/posts/journal-0414.md",
+    "content/posts/first-post.md",
     "content/posts/clean-room.md",
     "content/posts/hugo-blog-articles/journal-0423.md",
     "content/posts/hugo-blog-articles/Untitled.md",
