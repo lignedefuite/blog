@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/sm4_e2ee_architecture.md",
+                "file": "content/posts/sm4-crypto-engine.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "sm4_e2ee_architecture"
+              "title": "sm4-crypto-engine"
             }
           }
         ]
@@ -167,8 +167,9 @@
   },
   "active": "7414ca5377190445",
   "lastOpenFiles": [
-    "content/posts/journal-0423.md",
     "content/posts/sm4_e2ee_architecture.md",
+    "content/posts/sm4-crypto-engine.md",
+    "content/posts/journal-0423.md",
     "content/posts/my-first-post.md",
     "content/posts/journal-0414.md",
     "content/posts/first-post.md",
