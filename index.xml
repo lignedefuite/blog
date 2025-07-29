@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>拍動</title>
+    <link>https://lignedefuite.github.io/blog/</link>
+    <description>Recent content on 拍動</description>
+    <image>
+      <title>拍動</title>
+      <url>https://lignedefuite.github.io/blog/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://lignedefuite.github.io/blog/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.147.4</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 01 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://lignedefuite.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SM4端到端加密通信系统架构设计</title>
+      <link>https://lignedefuite.github.io/blog/posts/sm4_e2ee_architecture/</link>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://lignedefuite.github.io/blog/posts/sm4_e2ee_architecture/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>记录一次打扫房间</title>
+      <link>https://lignedefuite.github.io/blog/posts/clean-room/</link>
+      <pubDate>Sat, 28 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://lignedefuite.github.io/blog/posts/clean-room/</guid>
+      <description>&lt;p&gt;抽屉里的黑色联想鼠标。因为电脑换成了Macbook，没有另外再买鼠标，所以已经习惯了不使用鼠标。联想笔记本也不怎么使用了。所以没有留着这个鼠标的必要。而且它不是一个静音的鼠标，静音的那个之前坏掉了。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Archives</title>
+      <link>https://lignedefuite.github.io/blog/archives/</link>
+      <pubDate>Fri, 27 Jun 2025 11:51:21 +0800</pubDate>
+      <guid>https://lignedefuite.github.io/blog/archives/</guid>
+      <description>所有文章的时间线</description>
+    </item>
+    <item>
+      <title>Links</title>
+      <link>https://lignedefuite.github.io/blog/links/</link>
+      <pubDate>Fri, 27 Jun 2025 11:48:54 +0800</pubDate>
+      <guid>https://lignedefuite.github.io/blog/links/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/lignedefuite&#34;&gt;GitHub&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://bang-dream.bushimo.jp/&#34;&gt;BanG Dream! 官方网站&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://gohugo.io/documentation/&#34;&gt;Hugo 官方文档&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>https://lignedefuite.github.io/blog/about/</link>
+      <pubDate>Fri, 27 Jun 2025 11:48:45 +0800</pubDate>
+      <guid>https://lignedefuite.github.io/blog/about/</guid>
+      <description>&lt;p&gt;因为太想要被看见所以艰难地绞尽脑汁地去写出一篇成型的东西丢到Archive of Our Own上然而那寥寥千字的文本里暴露的是一望而知的写作者的文盲与心灵的贫瘠，发那些无聊的帖子不会让自己变得让人更想接近，写毫无内涵的故事不会让人想要靠近，所有的一切不过是服务于人际互动而已。因为如此，所以会想此时此刻花功夫在无聊的贴膜上不如做好手头的事好让自己有时间和心力去读好的故事好的作品好好吸收消化然后写出真的具有一定不可替代性的有灵性的有魅力的能够吸引人的我也从中获得了成长与提升的故事，这就是所谓的时间偏好的重要性，在无穷无尽的我与同人作品同人社群的互动中我终于完成了这个最有利于我个人成长发展的逻辑建构。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>First Post</title>
+      <link>https://lignedefuite.github.io/blog/posts/first-post/</link>
+      <pubDate>Thu, 26 Jun 2025 12:06:42 +0800</pubDate>
+      <guid>https://lignedefuite.github.io/blog/posts/first-post/</guid>
+      <description>&lt;h2 id=&#34;将-hugo-作为-github-pages-项目或个人组织站点部署并使用-github-actions-自动化整个过程&#34;&gt;将 Hugo 作为 GitHub Pages 项目或个人/组织站点部署，并使用 GitHub Actions 自动化整个过程&lt;/h2&gt;
+&lt;p&gt;不要使用https://hugo.opendocs.io/hosting-and-deployment/hosting-on-github/
+的配置文件。&lt;/p&gt;
+&lt;p&gt;在Settings&amp;gt;Pages中，&lt;code&gt;use a suggested workflow, browse all workflows, or create your own.&lt;/code&gt;中，选择&lt;code&gt;browse all workflows&lt;/code&gt;，然后搜索hugo，configure，就成功了。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>0423-精神行将就木 身体囤积脂肪</title>
+      <link>https://lignedefuite.github.io/blog/posts/journal-0423/</link>
+      <pubDate>Thu, 24 Apr 2025 23:30:00 +0800</pubDate>
+      <guid>https://lignedefuite.github.io/blog/posts/journal-0423/</guid>
+      <description>&lt;p&gt;人类吸毒的行为由来已久。正如阿道司·赫胥黎曾经指出的，绝大多数俗世男女的生活即便并非十分痛苦，也是极其无聊、穷困和窘迫的，所以人类一直有逃避现实的冲动，渴望超越自身的境况，哪怕这种超越很短暂；宗教艺术、节日欢庆、跳舞听歌等，无不服务于这种冲动，吸毒亦是如此。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>0414-Reflection</title>
+      <link>https://lignedefuite.github.io/blog/posts/journal-0414/</link>
+      <pubDate>Mon, 14 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://lignedefuite.github.io/blog/posts/journal-0414/</guid>
+      <description>&lt;p&gt;二编：我的评价是比起手冲不如闭上眼睛意淫。进行脑力活动。&lt;/p&gt;
+&lt;p&gt;三编：结果实际上还是…… 而且还做噩梦。&lt;/p&gt;
+&lt;p&gt;标题是在听的歌。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
