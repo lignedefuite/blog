@@ -11,10 +11,14 @@
             "id": "c3bee71249c7ce51",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "posts/journal-0830.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "journal-0830"
             }
           }
         ]
