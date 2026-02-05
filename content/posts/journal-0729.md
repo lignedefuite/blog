@@ -1,9 +1,12 @@
 ---
-titlt: 0729-Nova Historia
 date: 2025-07-29
 draft: false
+title: 0729-Nova Historia
 tags:
-  - journal
+  - 社交网络
+  - 精神压力
+  - 论文写作
+  - 日常生活
 ---
 
 又很久不做blog式的书写而是写mini-blog也就是社交网络的贴文…… 倒是也会真情实感写一点。
