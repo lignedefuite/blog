@@ -1,3 +1,37 @@
+---
+title: "About"
+date: "2026-02-06T00:00:00+08:00"
+draft: false
+summary: "About this demo site using Blowfish theme"
+---
+
+这是一个使用 Blowfish 主题的示例站点。此页面展示如何编写页面并使用主题提供的样式与参数。
+
+你可以在 `layouts/_default/single.html` 中看到我们添加的最小覆盖模板。
+
+本页为示例页面，可根据需要修改 `config/_default/params.toml` 中的主题参数以开启更多功能（例如 `showReadingTime`、`showTableOfContents` 等）。
+++
+title = "About"
+date = '2026-02-06T00:00:00+08:00'
+draft = false
+summary = "About this demo site using Blowfish theme"
+++
+
+这是一个使用 Blowfish 主题的示例站点。此页面展示如何编写页面并使用主题提供的样式与参数。
+
+你可以在 `layouts/_default/single.html` 中看到我们添加的最小覆盖模板。
+
+本页为示例页面，可根据需要修改 `config/_default/params.toml` 中的主题参数以开启更多功能（例如 `showReadingTime`、`showTableOfContents` 等）。
+++
+title = "About"
+date = '2026-02-06T00:00:00+08:00'
+draft = false
+summary = "About this demo site using Blowfish theme"
+++
+
+这是一个使用 Blowfish 主题的示例站点。此页面展示如何编写页面并使用主题提供的样式与参数。
+
+你可以在 `layouts/_default/single.html` 中看到我们添加的最小覆盖模板。
 +++
 date = '2025-06-27T11:48:45+08:00'
 draft = false
