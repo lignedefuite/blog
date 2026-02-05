@@ -1,0 +1,41 @@
+# Hugo 生成的文件（由 GitHub Actions 自动生成）
+public/
+resources/_gen/
+
+# Hugo 构建锁文件
+.hugo_build.lock
+
+# macOS 系统文件
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# 编辑器和 IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Obsidian 笔记工具的临时文件
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# 依赖和模块
+node_modules/
+.cache/
+
+# 环境变量和敏感信息
+.env
+.env.local
+*.key
+*.pem
+
+# 操作系统
+Thumbs.db
+Desktop.ini
+
+# 备份文件
+*.bak
+*.tmp
