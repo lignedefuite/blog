@@ -19,8 +19,8 @@ resources/_gen/
 *~
 
 # Obsidian 笔记工具的临时文件
-.obsidian/workspace.json
-.obsidian/workspace-mobile.json
+.obsidian/
+**/.obsidian/
 
 # 依赖和模块
 node_modules/
