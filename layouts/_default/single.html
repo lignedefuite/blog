@@ -1,0 +1,23 @@
+{{/* Minimal single.html override for umiri-blog — uses theme base templates */}}
+{{ define "main" }}
+<article class="prose mx-auto py-8">
+  <header>
+    <h1 class="text-3xl font-bold">{{ .Title }}</h1>
+    <p class="text-sm text-gray-600">{{ .Date.Format "2006-01-02" }}</p>
+  </header>
+
+  <section class="mt-6">
+    {{ .Content }}
+  </section>
+
+  {{ if .Params.tags }}
+  <footer class="mt-8">
+    <p>Tags:
+      {{ range $i, $t := .Params.tags }}
+        {{ if $i }}, {{ end }}<a href="{{ "tags/" | relURL }}{{ $t | urlize }}">{{ $t }}</a>
+      {{ end }}
+    </p>
+  </footer>
+  {{ end }}
+</article>
+{{ end }}
