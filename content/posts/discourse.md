@@ -1,7 +1,8 @@
 +++
 date = '2024-08-30'
-draft = false
+draft = 'false'
 title = 'Discourse-1'
+tags = ["网络话语", "屌丝文化", "民族主义", "话语实践", "李毅吧"]
 +++
 
 Warning：低质量文字，不值一读。

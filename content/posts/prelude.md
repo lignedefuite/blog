@@ -1,7 +1,8 @@
 +++
 date = '2024-08-07'
-draft = false
+draft = 'false'
 title = 'Prelude'
+tags = ["古典音乐", "芭蕾舞剧", "音乐聆听", "个人随笔", "格拉祖诺夫"]
 +++
 
 Raymonda, Op. 57:VI. Prelude – La Romanesca (Live at Leningrad Philharmonic Large Hall, 28.XII.1969)

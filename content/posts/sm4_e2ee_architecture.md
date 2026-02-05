@@ -1,7 +1,8 @@
 +++
 date = '2025-07-01'
-draft = true
+draft = 'true'
 title = 'SM4端到端加密通信系统架构设计'
+tags = ["国密算法", "安全通信", "系统架构", "SM2", "SM4"]
 +++
 
 <!--more-->

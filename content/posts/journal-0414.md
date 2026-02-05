@@ -3,8 +3,11 @@ title: 0414-Reflection
 date: 2025-04-14
 draft: false
 tags:
-  - journal
-  - reflection
+  - 自我反思
+  - 习惯改变
+  - 同人小说
+  - 生活管理
+  - 博客写作
 ---
 二编：我的评价是比起手冲不如闭上眼睛意淫。进行脑力活动。
 

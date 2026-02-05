@@ -1,7 +1,8 @@
 +++
 date = '2025-06-26T12:06:42+08:00'
-draft = false
+draft = 'false'
 title = 'First Post'
+tags = ["Hugo", "GitHub Pages", "GitHub Actions", "自动化部署", "静态站点"]
 +++
 
 ## 将 Hugo 作为 GitHub Pages 项目或个人/组织站点部署，并使用 GitHub Actions 自动化整个过程

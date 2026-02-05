@@ -1,7 +1,8 @@
 +++
 date = '2024-08-15'
-draft = false
+draft = 'false'
 title = 'DEH'
+tags = ["戏剧评论", "Dear Evan Hansen", "家庭伦理", "谎言与真相", "成长治愈"]
 +++
 
 I did three internship and ninty hours of community service!
