@@ -1,6 +1,6 @@
 # -- Main Menu --
 # The main menu is displayed in the header at the top of the page.
-# Acceptable parameters are name, pageRef, page, url, title, weight.
+# 可接受的参数是 name, pageRef, page, url, title, weight.
 # 
 # The simplest menu configuration is to provide:
 #   name = The name to be displayed for this menu link
