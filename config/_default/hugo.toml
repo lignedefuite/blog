@@ -5,9 +5,9 @@
 theme = "blowfish"
 baseURL = "https://localhost:1313"
 defaultContentLanguage = "zh-cn"
-disableLanguages = [] #to allow translation work requiring shipping to production
+#disableLanguages = [] #to allow translation work requiring shipping to production
 
-# pluralizeListTitles = "true" # hugo function useful for non-english languages, find out more in  https://gohugo.io/getting-started/configuration/#pluralizelisttitles
+#pluralizeListTitles = "true" # hugo function useful for non-english languages, find out more in  https://gohugo.io/getting-started/configuration/#pluralizelisttitles
 
 enableRobotsTXT = true
 summaryLength = 30
@@ -74,15 +74,15 @@ googleAnalytics = "G-PEDMYR1V0K"
 # Note that there are more files are ignored in development/hugo.toml
 #
 # Usage: `hugo --renderSegments core` or `hugo --renderSegments core,en_only`
-[segments]
-  [segments.core]
-    [[segments.core.includes]]
-      # Debug core pages
-      path = '{/,/docs,/docs/**,/samples,/samples/**}'
-  [segments.en_only]
-    [[segments.en_only.includes]]
+# [segments]
+#  [segments.core]
+#    [[segments.core.includes]]
+#      # Debug core pages
+#      path = '{/,/docs,/docs/**,/samples,/samples/**}'
+#  [segments.en_only]
+#    [[segments.en_only.includes]]
       # Alternatively, you can use environment variable
       #   - UNIX: HUGO_DISABLELANGUAGES='it ja zh-cn' npm run example:core
       #   - Windows CMD: set "HUGO_DISABLELANGUAGES=it ja zh-cn" && npm run example:core
       #   - Windows PowerShell: $env:HUGO_DISABLELANGUAGES="it ja zh-cn"; npm run example:core
-      lang = 'en'
+#      lang = 'en'

@@ -1,0 +1,83 @@
+# -- Main Menu --
+# The main menu is displayed in the header at the top of the page.
+# Acceptable parameters are name, pageRef, page, url, title, weight.
+# 
+# The simplest menu configuration is to provide:
+#   name = The name to be displayed for this menu link
+#   pageRef = The identifier of the page or section to link to
+#
+# By default the menu is ordered alphabetically. This can be
+# overridden by providing a weight value. The menu will then be
+# ordered by weight from lowest to highest.
+
+# 主菜单显示在页面顶部的页眉区域。
+# 支持的参数包括：名称、页面引用、页面、网址、标题、权重。
+# 
+# 最简单的菜单配置方式为提供：
+#   name = 此菜单链接的显示名称
+#   pageRef = 链接目标页面或版块的标识符
+#
+# 默认按字母顺序排序菜单。可通过提供权重值覆盖排序规则，此时菜单将按权重由低到高排列。
+
+[[main]]
+  name = "首页"
+  pageRef = "blog"
+  weight = 10
+
+[[main]]
+  name = "文章"
+  pageRef = "posts"
+  weight = 15
+
+[[main]]
+  name = "归档"
+  pageRef = "archives"
+  weight = 20
+
+[[main]]
+  name = "标签"
+  pageRef = "tags"
+  weight = 30
+
+[[main]]
+  name = "外链"
+  pageRef = "links"
+  weight = 40
+
+[[main]]
+  name = "关于"
+  pageRef = "about"
+  weight = 90
+
+# [[main]]
+#   identifier = "twitter"
+#   pre = "x-twitter"
+#   url = "https://twitter.com/burufugu"
+#   weight = 200
+
+#[[main]]
+#  identifier = "mastodon"
+#  pre = "mastodon"
+#  weight = 300
+#  url = "https://masto.ai/@blowfish"
+
+# [[main]]
+#   identifier = "github"
+#   pre = "github"
+#   url = "https://github.com/nunocoracao/blowfish"
+#   weight = 400
+
+
+# -- Footer Menu --
+# The footer menu is displayed at the bottom of the page, just before
+# the copyright notice. Configure as per the main menu above.
+
+[[footer]]
+  name = "标签"
+  pageRef = "tags"
+  weight = 10
+
+[[footer]]
+  name = "作者"
+  pageRef = "authors"
+  weight = 20
